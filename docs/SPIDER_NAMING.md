@@ -19,8 +19,8 @@ class GreatNameSpider(scrapy.Spider):
     name = "great_name"
 ```
 
-The camel case approach illustrated for the class name
-is further recommended. If you know the company / brand
+The camel case approach illustrated for the class name is
+further recommended. If you know the company / brand
 that you are spidering only has outlets in one country then it
 is helpful to suffix your name with the
 [ISO alpha-2 code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
