@@ -3,8 +3,8 @@
 Having highly targeted spiders for a limited number of companies and brands means
 that they can be run regularly. This is important as things in the real world
 change regularly. Companies open new and close old locations. Opening hours can
-change. Also, a company can change their website in a way that causes the spider
-to no longer function.
+change. Also, a company can change their website in a way that causes the spider to
+no longer function.
 
 ### alltheplaces.xyz
 
